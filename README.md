@@ -1,5 +1,13 @@
 SENNet: Spectrum-Edited Neural Network for 1H NMR Spectral Signal Separation
 
+Installation
+
+This is a Python program that runs in the form of an IPython Notebook (.ipynb) file. Before running it, make sure you have the following tools and dependencies installed:
+
+    torch - 1.7.1
+    numpy - 1.22.4
+    matplotlib - 3.5.1
+
 Introduction
 
 SENNet is a neural network-based approach designed to separate spectral signals in untargeted metabolomics studies that rely on nuclear magnetic resonance (NMR). By utilizing specific NMR pulse sequences, such as 1D NOESY, 1D CPMG, and 1D diffusion-edited spectroscopy, SENNet can accurately detect distinct NMR signatures from small molecules and lipoproteins in plasma or serum samples.
