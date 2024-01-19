@@ -1,7 +1,1 @@
-E:/Desktop/sennet/model_snnet_trained.pkl filter=lfs diff=lfs merge=lfs -text
-models_baseline_0711.py filter=lfs diff=lfs merge=lfs -text
-Baseline_Unet_20240102_unet_testdata_valdata_2_TV32_200epoch_10000_9unet_TV22_128k.pkl filter=lfs diff=lfs merge=lfs -text
-MTBLS242_noesypr1d_10.npy filter=lfs diff=lfs merge=lfs -text
-MTBLS242_noesypr1d_463.npy filter=lfs diff=lfs merge=lfs -text
-__pycache__ filter=lfs diff=lfs merge=lfs -text
-model_snnet_trained.pkl filter=lfs diff=lfs merge=lfs -text
+
