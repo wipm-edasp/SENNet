@@ -15,6 +15,18 @@ File Structure
     models_baseline_0711.py:Basic model
     model_snnet_trained.pkl:The trained snnet model
     run_model.ipynb:This is an interactive file consisting of a series of cells. It allows users to run the model cell by cell in this IPython Notebook file
+    Run_model_600MHz_ML242.ipynb：Example of Processing MTBLS242 (600 MHz) Data
+    Run_model_700MHz.ipynb：Example of processing 700 MHz serum plasma data
+    MTBLS374_SENNet_output_mean.npy：Contains numpy.array format of the MTBLS374 output by SENNet
+    MTBLS2387_PE003_cpmg.npy: Contains numpy.array format of MTBLS2387 PE003 cpmgpr1d (plsama)
+    MTBLS2387_PE003_noesy.npy: Contains numpy.array format of MTBLS2387 PE003 noesypr1d (plsama)
+    MTBLS2387_SE003_cpmg.npy: Contains numpy.array format of MTBLS2387 SE003 cpmgpr1d (serum)
+    MTBLS2387_SE003_noesy.npy: Contains numpy.array format of MTBLS2387 SE003 noesypr1d (serum)
+    plasma_noesypr1d.txt: The choose plsama noesypr1d as base data 
+    read_120plasma_forpaper.ipynb: read 120 plasma data for paper
+    read_ML242_forpaper.ipynb: read ML242 data for paper
+    read_ML374.ipynb: read ML242 data for paper
+    
     LICENSE: This file contains the project's license information.
 
 Introduction
