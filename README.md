@@ -35,7 +35,7 @@ SENNet is a neural network-based approach designed to separate spectral signals 
 
 Usage
 
-The trained SENNet model is applicable to NOESY-presat spectra commonly collected from a 600 MHz NMR spectrometer in metabolomics research. With SENNet, researchers can achieve more accurate separation of molecular signals in plasma and serum, enhancing the quality and efficiency of their metabolomics studies.
+The trained SENNet model is applicable to NOESY-presat spectra commonly collected from a 600/700 MHz NMR spectrometer in metabolomics research. With SENNet, researchers can achieve more accurate separation of molecular signals in plasma and serum, enhancing the quality and efficiency of their metabolomics studies.
 
 Benefits and Potential
 
