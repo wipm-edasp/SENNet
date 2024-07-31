@@ -1,4 +1,6 @@
-SENNet: Spectrum-Edited Neural Network for 1H NMR Spectral Signal Separation
+# SENNet
+
+This repository contains the software implementation of the Spectral Editing Neural Network (SENNet) model, which can distinguish signals of small and macromolecules based on the linewidth at half-height of spectral peaks, and generate the spectra of small and macromolecules simultaneous from blood 1H NOESY-presat spectra, to shorten the experimental time of NMR based metabolomics study. The detailed description can be found in the paper titled "[Using neural networks to obtain NMR spectra of both small and macromolecules from blood samples in a single experiment](https://doi.org/10.1038/s42004-024-01251-x))".
 
 Installation
 
